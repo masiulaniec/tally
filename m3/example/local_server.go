@@ -28,7 +28,7 @@ import (
 
 	"github.com/uber-go/tally/m3"
 	customtransport "github.com/uber-go/tally/m3/customtransports"
-	m3thrift "github.com/uber-go/tally/m3/thrift/v1"
+	m3thrift "github.com/uber-go/tally/m3/thrift"
 	"github.com/uber-go/tally/thirdparty/github.com/apache/thrift/lib/go/thrift"
 )
 
